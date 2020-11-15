@@ -1,1 +1,4 @@
-flask==1.1.1
+Flask==1.1.2
+Flask-email==1.4.4
+pip==20.2.3
+setuptools==49.2.1
